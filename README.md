@@ -1,2 +1,2 @@
 # AlexNet
-use tensorflow to implement AlexNet
+Use tensorflow to implement AlexNet
